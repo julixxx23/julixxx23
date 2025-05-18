@@ -64,6 +64,8 @@ Además de mi pasión por la tecnología, me interesa el análisis estratégico 
 
 [![](https://visitcount.itsvg.in/api?id=julixxx23&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💰 Puedes invitarme un café ☕
+## ☕ ¿Te gustó mi trabajo?
+
+¡Invítame un café virtual y sigamos construyendo cosas geniales juntos!
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Julian)
