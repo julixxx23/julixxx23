@@ -2,7 +2,7 @@
 
 **Ingeniero Backend** especializado en **Java y Spring Boot**, enfocado en la construcción de sistemas empresariales escalables, seguros y bien estructurados.
 
-Fundador de **Soluciones en Código** — iniciativa tecnológica orientada a llevar software de calidad a negocios y emprendimientos, desde automatizaciones inteligentes hasta plataformas SaaS en producción.
+Fundador de **Soluciones en Código** — iniciativa tecnológica orientada a llevar software de calidad a negocios y emprendimientos, desde automatizaciones inteligentes hasta plataformas SaaS.
 
 ## 🚀 En lo que trabajo
 
