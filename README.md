@@ -4,8 +4,6 @@
 
 Fundador de **Soluciones en Código** — iniciativa tecnológica orientada a llevar software de calidad a negocios y emprendimientos, desde automatizaciones inteligentes hasta plataformas SaaS en producción.
 
----
-
 ## 🚀 En lo que trabajo
 
 - Arquitecturas REST con Spring Boot y patrones de diseño (DTO, Repository, Service Layer)
@@ -13,18 +11,16 @@ Fundador de **Soluciones en Código** — iniciativa tecnológica orientada a ll
 - Automatizaciones con n8n y bots de Telegram
 - Despliegue con Docker, DigitalOcean y GitHub Actions CI/CD
 
----
-
 ## 💼 Soluciones en Código
 
-Desarrollo soluciones tecnológicas a medida para negocios y emprendimientos:
+Desarrollo e implementación de soluciones tecnológicas a medida para negocios y emprendimientos:
 
-- **Plataformas SaaS** — sistemas multi-tenant desplegados en producción con arquitectura escalable
-- **Automatizaciones** — flujos con n8n, bots de Telegram y pipelines de datos
-- **Integraciones** — APIs REST, facturación electrónica (FEL), pagos y terceros
-- **Consultoría técnica** — arquitectura de software y mejores prácticas backend
-
----
+- **Sistemas de gestión empresarial** — software personalizado para el control de operaciones, inventarios, ventas y facturación electrónica (FEL)
+- **Plataformas SaaS** — sistemas multi-tenant desplegados en producción con arquitectura escalable y segura
+- **Sitios y aplicaciones web** — desarrollo de páginas web corporativas, landing pages y aplicaciones orientadas a resultados
+- **Automatizaciones inteligentes** — flujos con n8n, bots de Telegram y pipelines de datos que reducen trabajo manual
+- **Integraciones** — APIs REST, pasarelas de pago, facturación electrónica y servicios de terceros
+- **Consultoría técnica** — arquitectura de software, revisión de código y mejores prácticas backend
 
 ## 🛠️ Tech Stack
 
@@ -48,20 +44,21 @@ Desarrollo soluciones tecnológicas a medida para negocios y emprendimientos:
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
----
+## 🎓 Formación y Certificaciones
 
-## 🎓 Formación
+**Ingeniería en Sistemas** — Universidad Mariano Gálvez de Guatemala
 
-Ingeniería en Sistemas — Universidad Mariano Gálvez de Guatemala
-
----
+**Certificaciones**
+- Spring Professional Certification
+- Java SE 21 Developer
+- MySQL Database Administration
+- Curso completo de Python 2024 — De cero a Master con Python
 
 ## 🌐 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Julian-Alberto-Orellana-Ortiz)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorellanao12@miumg.edu.gt)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Julian%20Alberto%20Orellana%20Ortiz)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/j_ul23)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@julianOrel63134)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jo4608448@gmail.com)
 
 > *"El código limpio no se escribe por accidente."*
