@@ -1,71 +1,67 @@
-# 💫 Sobre mí
+# 👋 Hola, soy Julian Orellana
 
-Actualmente trabajo como **desarrollador backend** especializado en **Java y Spring Boot**, enfocado en la creación de sistemas escalables, eficientes y orientados a la gestión empresarial.
+**Ingeniero Backend** especializado en **Java y Spring Boot**, enfocado en la construcción de sistemas empresariales escalables, seguros y bien estructurados.
 
-### 🚀 En lo que estoy buscando colaborar:
-Proyectos de alto impacto que requieran soluciones backend sólidas, optimización del rendimiento y una arquitectura de software bien estructurada.
-
-### 🧠 Estoy buscando apoyo en:
-Profundización en **Java** y **Spring Boot**, así como en **mejores prácticas de seguridad** y **patrones de diseño** aplicados a arquitecturas modernas.
-
-### 📚 Actualmente aprendiendo:
-- Seguridad en aplicaciones Java y Spring Security  
-- Administración eficiente de bases de datos con **MySQL**
-- Técnicas avanzadas de **Spring Boot** para escribir código más limpio y mantenible
-
-### 💬 Pregúntame sobre:
-- Desarrollo backend de alto rendimiento
-- Integración de APIs RESTful
-- Buenas prácticas en arquitectura de software
-- Optimización de sistemas en Java y bases de datos
-
-### 🎯 Dato curioso:
-Además de mi pasión por la tecnología, me interesa el análisis estratégico en deportes profesionales, especialmente la **NBA** y la **NFL**. 🏀🏈
+Fundador de **Soluciones en Código** — iniciativa tecnológica orientada a llevar software de calidad a negocios y emprendimientos, desde automatizaciones inteligentes hasta plataformas SaaS en producción.
 
 ---
 
-## 🌐 Redes Sociales
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/j_ul23)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Julian Alberto Orellana Ortiz)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@julianOrel63134)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jo4608448@gmail.com)
+## 🚀 En lo que trabajo
+
+- Arquitecturas REST con Spring Boot y patrones de diseño (DTO, Repository, Service Layer)
+- Seguridad con Spring Security + JWT
+- Automatizaciones con n8n y bots de Telegram
+- Despliegue con Docker, DigitalOcean y GitHub Actions CI/CD
 
 ---
 
-## 💻 Tech Stack
+## 💼 Soluciones en Código
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=java&logoColor=white)  
-![Django & Django REST](https://img.shields.io/badge/django-REST-092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+Desarrollo soluciones tecnológicas a medida para negocios y emprendimientos:
+
+- **Plataformas SaaS** — sistemas multi-tenant desplegados en producción con arquitectura escalable
+- **Automatizaciones** — flujos con n8n, bots de Telegram y pipelines de datos
+- **Integraciones** — APIs REST, facturación electrónica (FEL), pagos y terceros
+- **Consultoría técnica** — arquitectura de software y mejores prácticas backend
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-![](https://github-readme-stats.vercel.app/api?username=julixxx23&theme=dark&hide_border=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=julixxx23&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=julixxx23&theme=dark&hide_border=false&layout=compact)
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+**Bases de datos**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**DevOps & Herramientas**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
-## ✍️ Dev Quote
+## 🎓 Formación
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Ingeniería en Sistemas — Universidad Mariano Gálvez de Guatemala
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=julixxx23&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🌐 Contacto
 
-## ☕ ¿Te gustó mi trabajo?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Julian-Alberto-Orellana-Ortiz)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorellanao12@miumg.edu.gt)
 
-¡Invítame un café virtual y sigamos construyendo cosas geniales juntos!
+---
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Julian)
+> *"El código limpio no se escribe por accidente."*
