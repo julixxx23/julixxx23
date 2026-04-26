@@ -1,40 +1,39 @@
+# 👋 Julian Orellana
 
-# 👋 Julian Orellana | Backend Engineer
+**Backend Engineer specialized in Java and Spring**, focused on designing and building scalable, secure, and maintainable enterprise systems using modern backend architecture and development best practices.
 
-**Ingeniero Backend especializado en Java y Spring**, enfocado en el diseño y desarrollo de sistemas empresariales escalables, seguros y mantenibles, aplicando buenas prácticas de arquitectura y desarrollo backend moderno.
-
-Fundador de **Soluciones en Código**, iniciativa tecnológica orientada al desarrollo de software empresarial a medida para negocios y emprendimientos, ofreciendo soluciones robustas, seguras y alineadas a las necesidades reales de operación.
+Founder of **Soluciones en Código**, a technology initiative dedicated to building custom business software solutions that improve operations, automate processes, and support business growth through solid backend engineering.
 
 ---
 
-## 🚀 Especialidades Backend
+## 🚀 Backend Expertise
 
-- Desarrollo de APIs REST robustas con Spring Boot
-- Arquitectura de microservicios con Spring Cloud
-- Seguridad con Spring Security y JWT
-- Diseño por capas: Controller, Service, Repository, DTO
-- Contenerización y despliegue con Docker
-- Infraestructura cloud con AWS
-- Integración continua con GitHub Actions
-- Modelado y administración de bases de datos relacionales
+- REST API development with Spring Boot
+- Microservices architecture with Spring Cloud
+- Authentication and authorization with Spring Security and JWT
+- Layered architecture: Controller, Service, Repository, DTO
+- Containerization and deployment with Docker
+- Cloud infrastructure with AWS
+- CI/CD pipelines with GitHub Actions
+- Relational database design and administration
 
 ---
 
 ## 💼 Soluciones en Código
 
-En **Soluciones en Código** desarrollamos software empresarial orientado a mejorar procesos, automatizar operaciones y escalar negocios mediante tecnología backend sólida y arquitectura bien estructurada.
+At **Soluciones en Código**, we build enterprise software solutions tailored to business needs, helping organizations optimize operations and scale efficiently through reliable backend systems.
 
-### Servicios principales:
+### Core Services:
 
-- **Sistemas empresariales personalizados** para gestión operativa, ventas, inventario y facturación
-- **Arquitectura backend escalable** basada en microservicios y APIs REST
-- **Integración de servicios** con APIs de terceros, pasarelas de pago y facturación electrónica
-- **Infraestructura y despliegue** en entornos cloud con Docker y AWS
-- **Consultoría técnica** en arquitectura backend, buenas prácticas y optimización de sistemas
+- **Custom business systems** for operations, sales, inventory, and billing management
+- **Scalable backend architectures** based on microservices and REST APIs
+- **Third-party integrations** with payment gateways, invoicing platforms, and external services
+- **Cloud deployment solutions** using Docker and AWS infrastructure
+- **Technical consulting** on backend architecture, best practices, and system optimization
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -42,7 +41,7 @@ En **Soluciones en Código** desarrollamos software empresarial orientado a mejo
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-### Bases de datos
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -54,25 +53,25 @@ En **Soluciones en Código** desarrollamos software empresarial orientado a mejo
 
 ---
 
-## 🎓 Formación y Certificaciones
+## 🎓 Education & Certifications
 
-**Ingeniería en Sistemas** — :contentReference[oaicite:1]{index=1}
+**Systems Engineering** — Universidad Mariano Gálvez de Guatemala
 
-### Certificaciones
+### Certifications
 - Spring Professional Certification
 - Java SE Developer
 - MySQL Database Administration
 
 ---
 
-## 🌐 Contacto
+## 🌐 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorellanao12@miumg.edu.gt)
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
 
